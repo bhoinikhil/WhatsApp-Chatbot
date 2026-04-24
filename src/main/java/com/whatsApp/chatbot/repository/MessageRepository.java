@@ -1,4 +1,7 @@
 package com.whatsApp.chatbot.repository;
 
-public class MessageRepository {
+import com.whatsApp.chatbot.entity.Message;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface MessageRepository extends JpaRepository<Message, Long> {
 }
