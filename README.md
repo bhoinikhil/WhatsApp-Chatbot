@@ -16,14 +16,14 @@ This project is a WhatsApp Chatbot Simulation Backend built using Spring Boot.It
 
 - Follows 3-layer architecture:
 
--- Controller Layer
+- Controller Layer
 
--- Service Layer
+- Service Layer
 
--- Repository Layer
+- Repository Layer
 
 - Logs all messages in console
-- 
+
 
 # Tech Stack
 
